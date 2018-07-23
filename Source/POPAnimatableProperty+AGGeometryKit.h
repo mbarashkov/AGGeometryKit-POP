@@ -21,7 +21,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-#import <POP/POP.h>
+#import <pop/POP.h>
 
 extern NSString * const kPOPLayerAGKQuadTopLeft;
 extern NSString * const kPOPLayerAGKQuadTopLeftX;
